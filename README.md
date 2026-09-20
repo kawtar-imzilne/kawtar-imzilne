@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Kawtar Imzilne
+# Hi there 👋
 
 👩‍💻 **Web Developer | Full Stack Developer**  
 🚀 Building modern and user-friendly web applications  
