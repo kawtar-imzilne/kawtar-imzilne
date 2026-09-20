@@ -19,10 +19,6 @@ I enjoy turning ideas into real-world digital solutions and continuously improvi
 🎨 Interested in **UI/UX and modern web design**  
 ⚡ Fun fact: **I love turning ideas into real web applications 🚀**
 
-## 🌐 Socials
-
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kawtarimziln@gmail.com)
-
 ## 💻 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
